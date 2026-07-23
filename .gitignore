@@ -1,0 +1,33 @@
+# Python & Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables & Secrets
+.env
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data, Storage & Cache
+chroma_db/
+chroma/
+sessions/
+docs/
+*.log
+scratch/
+test.py
+
+# Frontend directory (Exclude from repository)
+frontend/
+
+# OS specific
+.DS_Store
+Thumbs.db
