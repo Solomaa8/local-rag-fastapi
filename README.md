@@ -1,6 +1,7 @@
 # Advanced Local RAG Backend (FastAPI + LangChain + Ollama + Hybrid Search + BGE Reranker)
 
 Автономный бэкенд-сервис для работы с локальной RAG-системой (**Retrieval-Augmented Generation**). Сервис выстраивает интеллектуальный поиск и генерацию ответов по документам (`.pdf`, `.txt`, `.docx`), используя гибридный поиск и переранжирование через нейронные сети.
+Разработанно совместнно с [@Vano1i]
 
 ---
 
